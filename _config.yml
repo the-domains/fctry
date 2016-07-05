@@ -1,0 +1,28 @@
+name: fctry
+favicon: null
+layout_spectrum: 0.5653766649775207
+typography_spectrum: 0.7144992451649159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.460691062733531
+  lightness: 0.22273154463618994
+  saturation: 0.7193962503224611
+  rhythmicContrast: 0.6786355068907142
+purpose: []
